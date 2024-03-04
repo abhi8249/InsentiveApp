@@ -300,11 +300,7 @@ include(SERVER_INCLUDE_PATH . 'function.php');
             align-items: center;
         }
    
-        .leaf_logo {
-            text-align: left;
-            position: absolute;
-            left: 0;
-        }
+  
         .bg-gray-100 {
             background-color: #ffffff !important;
         }
@@ -317,10 +313,7 @@ include(SERVER_INCLUDE_PATH . 'function.php');
 			
     <section class="login_section">
         <div class="container">
-		<div class="leaf_logo">
-		    <img class="leaf_lg" src="img/tree_branch.png" alt="tree_branch">
-
-		</div>
+	
 	
             <div class="row">
                 <div class="col-md-6 col-sm-12 col-xs-12">
